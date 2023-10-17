@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rober\\onedrive\\dokumente\\unreal projects\\ba_inventory\\plugins\\gamefeatures\\ba_inventoryanditems\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ba_inventoryanditemsruntime\\module.ba_inventoryanditemsruntime.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rober\\onedrive\\dokumente\\unreal projects\\ba_inventory\\intermediate\\build\\win64\\x64\\ba_inventoryeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rober\\onedrive\\dokumente\\unreal projects\\ba_inventory\\plugins\\gamefeatures\\ba_inventoryanditems\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ba_inventoryanditemsruntime\\definitions.ba_inventoryanditemsruntime.h",
+            "c:\\users\\rober\\onedrive\\dokumente\\unreal projects\\ba_inventory\\plugins\\gamefeatures\\ba_inventoryanditems\\source\\ba_inventoryanditemsruntime\\private\\ba_inventoryanditemsruntimemodule.cpp",
+            "c:\\users\\rober\\onedrive\\dokumente\\unreal projects\\ba_inventory\\plugins\\gamefeatures\\ba_inventoryanditems\\source\\ba_inventoryanditemsruntime\\public\\ba_inventoryanditemsruntimemodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

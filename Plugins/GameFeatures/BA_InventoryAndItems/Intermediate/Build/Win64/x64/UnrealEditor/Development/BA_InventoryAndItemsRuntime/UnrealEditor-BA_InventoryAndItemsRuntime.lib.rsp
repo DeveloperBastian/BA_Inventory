@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BA_InventoryAndItemsRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\rober\OneDrive\Dokumente\Unreal Projects\BA_Inventory\Intermediate\Build\Win64\x64\BA_InventoryEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\rober\OneDrive\Dokumente\Unreal Projects\BA_Inventory\Plugins\GameFeatures\BA_InventoryAndItems\Intermediate\Build\Win64\x64\UnrealEditor\Development\BA_InventoryAndItemsRuntime\Module.BA_InventoryAndItemsRuntime.cpp.obj"
+"C:\Users\rober\OneDrive\Dokumente\Unreal Projects\BA_Inventory\Plugins\GameFeatures\BA_InventoryAndItems\Intermediate\Build\Win64\x64\UnrealEditor\Development\BA_InventoryAndItemsRuntime\Default.rc2.res"
+/OUT:"C:\Users\rober\OneDrive\Dokumente\Unreal Projects\BA_Inventory\Plugins\GameFeatures\BA_InventoryAndItems\Intermediate\Build\Win64\x64\UnrealEditor\Development\BA_InventoryAndItemsRuntime\UnrealEditor-BA_InventoryAndItemsRuntime.lib"

@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BA_InventoryAndItemsRuntime.cpp.obj": [
+			"BA_InventoryAndItemsRuntimeModule.cpp.obj"
+		]
+	}
+}
