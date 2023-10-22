@@ -12,6 +12,9 @@ All results and learnings of these videos are compiled together into on [Infogra
 ## BA Inventory
 This new plugin tries to create an general inventory system for any Unreal game (could also be used in Lyra, but also in all other Unreal game templates).
 
+# Status
+The current development status can always be seen at this [status infographics](https://github.com/DeveloperBastian/Unreal-Lyra-Concepts/blob/main/infographics/Unreal%20-%20BA%20Inventory%20-%20Status.pdf)
+
 # Principles
 * General principles - security
   *	All Item and Inventory processes are managed on Authority only
