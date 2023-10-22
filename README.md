@@ -1,6 +1,6 @@
 ### Developer Bastian
 
-![Developer Bastian](https://developerbastian.github.io/www/assets/images/bastian.developer.png)
+<img src="https://developerbastian.github.io/www/assets/images/bastian.developer.png" width="394px" height="400px" />
 
 ## General Notes
 This is a continuation of the [Bastian Plugin](https://github.com/DeveloperBastian/BastianPlugin) - an attempt to use Unreal Lyra as a base for a RPG like game.
