@@ -1,6 +1,6 @@
 ### Developer Bastian
 
-![Developer Bastian](/www/assets/images/bastian.developer.png)
+![Developer Bastian](https://developerbastian.github.io/www/assets/images/bastian.developer.png)
 
 ## General Notes
 This is a continuation of the [Bastian Plugin](https://github.com/DeveloperBastian/BastianPlugin) - an attempt to use Unreal Lyra as a base for a RPG like game.
@@ -31,7 +31,7 @@ This new plugin tries to create an general inventory system for any Unreal game 
 The inventory plugin is designed to handle multiple users with different rights.
 This might cover situations such as temporary access to inventories (opening a chest), having multiple inventories per character or having different rights on an inventory such as different rights between guild members and masters:
 
-![BA Inventory](/www/assets/images/BA_Inventory_Processes.png)
+![BA Inventory](https://developerbastian.github.io/www/assets/images/BA_Inventory_Processes.png)
 
 
 
