@@ -1,4 +1,4 @@
-### Developer Bastian
+# Developer Bastian
 
 <img src="https://developerbastian.github.io/www/assets/images/bastian.developer.png" width="394px" height="400px" />
 
@@ -12,10 +12,10 @@ All results and learnings of these videos are compiled together into on [Infogra
 ## BA Inventory
 This new plugin tries to create an general inventory system for any Unreal game (could also be used in Lyra, but also in all other Unreal game templates).
 
-# Status
+### Status
 The current development status can always be seen at this [status infographics](https://github.com/DeveloperBastian/Unreal-Lyra-Concepts/blob/main/infographics/Unreal%20-%20BA%20Inventory%20-%20Status.pdf)
 
-# Principles
+## Principles
 * General principles - security
   *	All Item and Inventory processes are managed on Authority only
   * Remote client only receives UI related information
@@ -30,11 +30,15 @@ The current development status can always be seen at this [status infographics](
   * Items are always data driven via databases, data registries or data tables
   * Items are composed of fragments detailing different aspects (name, weight, durability, ...)
 
-# Multi User, Multi Owner, Multi Access inventories
+## Multi User, Multi Owner, Multi Access inventories
 The inventory plugin is designed to handle multiple users with different rights.
 This might cover situations such as temporary access to inventories (opening a chest), having multiple inventories per character or having different rights on an inventory such as different rights between guild members and masters:
 
 ![BA Inventory](https://developerbastian.github.io/www/assets/images/BA_Inventory_Processes.png)
 
+# License
+
+All artefacts are licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons - CC BY-SA 4.0: Attribution-ShareAlike 4.0 International</a><br /><br />
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en"><img alt="Creative Commons License 4" style="border-width:0; width: 100px" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" /></a>
 
 

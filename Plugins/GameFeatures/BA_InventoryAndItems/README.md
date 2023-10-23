@@ -34,4 +34,12 @@ This might cover situations such as temporary access to inventories (opening a c
 ![BA Inventory](https://developerbastian.github.io/www/assets/images/BA_Inventory_Processes.png)
 
 
+# License
+
+All artefacts are licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons - CC BY-SA 4.0: Attribution-ShareAlike 4.0 International</a><br /><br />
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en"><img alt="Creative Commons License 4" style="border-width:0; width: 100px" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" /></a>
+
+
+
+
 
