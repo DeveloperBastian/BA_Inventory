@@ -31,10 +31,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "BA_InventoryAndItems",
-			"Enabled": true
-		},
-		{
 			"Name": "JsonBlueprintUtilities",
 			"Enabled": true
 		},
@@ -48,6 +44,18 @@
 		},
 		{
 			"Name": "PCGExternalDataInterop",
+			"Enabled": true
+		},
+		{
+			"Name": "HttpBlueprint",
+			"Enabled": true
+		},
+		{
+			"Name": "JWT",
+			"Enabled": true
+		},
+		{
+			"Name": "BA_InventoryAndItems",
 			"Enabled": true
 		}
 	]
